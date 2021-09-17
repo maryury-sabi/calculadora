@@ -1,0 +1,52 @@
+body{
+    margin-top: 5%;  font: 80px arial,helvetica,sans-serif;  font-size: 50px;
+    background-image: url(../img/ImgAbstractos\ 082.jpg);
+    
+}
+table{
+    background-color:rgb(18, 157, 175) ;  border-radius: 15px;  padding: 3px;
+}
+.boton1{
+    font-size: 50px;
+    margin: center;
+    margin-left: 10px;
+    background-color: rgba(255, 255, 255, 0.842);
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    border: 5px  solid rgb(255, 255, 255);
+    border: 8px outset;
+}
+.boton2{
+    font-size: 50px;
+    margin: center;
+    margin-left: 10px;
+    background-color: rgba(243, 153, 102, 0.808);
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    border: 5px  solid rgb(248, 248, 245);
+    border: 8px outset;
+}
+.boton3{
+    font-size: 50px;
+    margin: center;
+    margin-left: 10px;
+    background-color: rgba(226, 89, 84, 0.808);
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    border: 5px  solid rgb(255, 255, 255);
+    border: 8px outset;
+}
+input{
+    margin-top: 5%;
+    width: 400px;
+    height: 80px;
+    border: 5px solid rgb(250, 250, 250);
+    border-radius: 15px;
+    font-size: 50px;
+}
+button{
+    padding: 10px ;
+}
